@@ -12,11 +12,11 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "aqua" #"default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Welcome !! Pyung Kim's Site"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Pyung Kim"
@@ -104,15 +104,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Pyung Kim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  location         : "South Korea, Jeonju"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:kimpyung@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
